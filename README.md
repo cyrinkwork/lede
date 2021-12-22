@@ -3,7 +3,7 @@ Lean的Openwrt源码仓库备份分支
 
 [English](./README_EN.md)
 
-源地址https://github.com/coolsnowwolf
+源地址https://github.com/coolsnowwolf/lede
 -
 注意：
 -
