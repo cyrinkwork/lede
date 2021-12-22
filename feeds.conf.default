@@ -1,4 +1,4 @@
-#src-git packages https://github.com/coolsnowwolf/packages
+src-git packages https://github.com/coolsnowwolf/packages
 src-git package https://github.com/cyrinkwork/packages
 src-git luci https://github.com/coolsnowwolf/luci
 src-git routing https://git.openwrt.org/feed/routing.git
@@ -14,4 +14,4 @@ src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git nas https://github.com/linkease/nas-packages.git;master
 src-git nas_luci https://github.com/linkease/nas-packages-luci.git;main
 src-git istore https://github.com/linkease/istore.git;main
-src-git istore-ui https://github.com/linkease/istore-ui.git;main
+src-git istore_ui https://github.com/linkease/istore-ui.git;main
