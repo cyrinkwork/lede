@@ -1,4 +1,4 @@
-欢迎来到Lean的Openwrt源码仓库！
+Lean的Openwrt源码仓库备份分支
 =
 
 [English](./README_EN.md)
