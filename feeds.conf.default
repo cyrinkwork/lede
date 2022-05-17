@@ -17,3 +17,4 @@ src-git istore https://github.com/linkease/istore.git;main
 src-git istore_ui https://github.com/linkease/istore-ui.git;main
 
 src-git poweroff https://github.com/esirplayground/luci-app-poweroff.git
+src-git oaf https://github.com/OpenWrt-Actions/OpenAppFilter.git
